@@ -1,6 +1,6 @@
 # NYC-Taxi-Azure-Pipeline
 
-![Image description]([https://github.com/anshalchopra/NYC-Taxi-Azure-Pipeline/](https://github.com/anshalchopra/NYC-Taxi-Azure-Pipeline/blob/main/Azure%20End%20to%20End%20Pipeline.jpeg))
+![Image description](https://github.com/anshalchopra/NYC-Taxi-Azure-Pipeline/blob/main/Azure%20End%20to%20End%20Pipeline.jpeg)
 
 ## Key Learnings & Implementations 📚
 
