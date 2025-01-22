@@ -1,5 +1,7 @@
 # NYC-Taxi-Azure-Pipeline
 
+![Image description](https://github.com/anshalchopra/NYC-Taxi-Azure-Pipeline/)
+
 ## Key Learnings & Implementations 📚
 
 ### 1. **Data Architecture & Medallion Architecture** 🏗️
