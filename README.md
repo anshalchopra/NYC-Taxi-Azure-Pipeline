@@ -43,12 +43,3 @@
 
 ### 9. **Connecting Databricks to BI Tools** 📊
    - Connected **Azure Databricks** to various **BI tools** to enable data visualization and reporting, enhancing data accessibility for business users.
-
----
-
-## Conclusion 🎯
-
-Through this course, I gained practical experience in implementing cloud-based data pipelines, real-time data processing, and data analytics using **Azure** and **Databricks**. I learned how to work with large datasets in a distributed environment, configure scalable storage solutions, and build efficient data pipelines for complex analytics scenarios. The integration of **Azure Data Factory** for API-based data ingestion to **Azure Data Lake**, with secure authentication using **Service Principal** (for Databricks to access Data Lake) and **Entra ID (Azure Active Directory)** for managing permissions, was a key achievement, demonstrating my ability to automate and orchestrate data workflows programmatically.
-
-### 9. **Connecting Databricks to BI Tools** 📊
-   - Connected **Azure Databricks** to various **BI tools** to enable data visualization and reporting, enhancing data accessibility for business users.
